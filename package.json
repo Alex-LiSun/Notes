@@ -18,13 +18,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alex-lisun/Notes.git"
+    "url": "git+https://github.com/Alex-LiSun/Notes.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alex-lisun/Notes/issues"
+    "url": "https://github.com/Alex-LiSun/Notes/issues"
   },
-  "homepage": "https://github.com/alex-lisun/Notes#readme"
+  "homepage": "https://github.com/Alex-LiSun/Notes#readme"
 }
